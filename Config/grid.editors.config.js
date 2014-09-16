@@ -15,7 +15,7 @@
 	    "name": "Test Editor 2",
 	    "alias": "Custom.Test2",
 	    "view": "testeditor2",
-	    "icon": "icon-refresh"
+	    "icon": "icon-chart"
 	},
 	{
 	    "name": "Test Editor 3",
