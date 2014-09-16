@@ -319,4 +319,217 @@
       <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
     </files>
   </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjMuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uRGVsZXRlUmVsYXRpb25UeXBlLmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbk5ld1JlbGF0aW9uVHlwZS5qczs" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_75ca2bc50cf7416ba714a983091b62c6.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjMuanM7L0FwcF9QbHVnaW5zL3Rlc3QvY3VzdG9tLmNvbnRyb2xsZXIyLmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbkRlbGV0ZVJlbGF0aW9uVHlwZS5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25OZXdSZWxhdGlvblR5cGUuanM7" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_94561f45410c4e729ca31e852a9e2dda.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/App_Plugins/test/custom.controller2.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjQuanM7L0FwcF9QbHVnaW5zL3Rlc3QvY3VzdG9tLmNvbnRyb2xsZXIzLmpzOy9BcHBfUGx1Z2lucy90ZXN0L2N1c3RvbS5jb250cm9sbGVyMi5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25EZWxldGVSZWxhdGlvblR5cGUuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uTmV3UmVsYXRpb25UeXBlLmpzOw" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_b0071a490ce64f86b55644caeadeb996.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller4.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/App_Plugins/test/custom.controller2.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjQuanM7L0FwcF9QbHVnaW5zL3Rlc3QvY3VzdG9tLmNvbnRyb2xsZXIyLmpzOy9BcHBfUGx1Z2lucy90ZXN0L2N1c3RvbS5jb250cm9sbGVyMy5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25EZWxldGVSZWxhdGlvblR5cGUuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uTmV3UmVsYXRpb25UeXBlLmpzOw" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_10187ec5c92348f4a20fa4db86f57306.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller4.js" />
+      <file name="/App_Plugins/test/custom.controller2.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjMuanM7L0FwcF9QbHVnaW5zL3Rlc3QvY3VzdG9tLmNvbnRyb2xsZXI0LmpzOy9BcHBfUGx1Z2lucy90ZXN0L2N1c3RvbS5jb250cm9sbGVyMi5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25EZWxldGVSZWxhdGlvblR5cGUuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uTmV3UmVsYXRpb25UeXBlLmpzOw" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_4da84988f5954d9ca9df10a0789ab3d3.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/App_Plugins/test/custom.controller4.js" />
+      <file name="/App_Plugins/test/custom.controller2.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktMi4wLjMubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnktdWktMS4xMC4zLmN1c3RvbS5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC5qczsvdW1icmFjby9saWIvanF1ZXJ5L2pxdWVyeS51cGxvYWQvanMvbG9hZC1pbWFnZS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLXByb2Nlc3MuanM7L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkudXBsb2FkL2pzL2pxdWVyeS5maWxldXBsb2FkLWltYWdlLmpzOy91bWJyYWNvL2xpYi9qcXVlcnkvanF1ZXJ5LnVwbG9hZC9qcy9qcXVlcnkuZmlsZXVwbG9hZC1hbmd1bGFyLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5VW1iQ2xpZW50TWdyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VjdXJpdHkuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvdGVzdC9jdXN0b20uY29udHJvbGxlcjIuanM7L0FwcF9QbHVnaW5zL3Rlc3QvY3VzdG9tLmNvbnRyb2xsZXIzLmpzOy9BcHBfUGx1Z2lucy90ZXN0L2N1c3RvbS5jb250cm9sbGVyNC5qczsvdW1icmFjby9kZXZlbG9wZXIvUmVsYXRpb25UeXBlcy9UcmVlTWVudS9BY3Rpb25EZWxldGVSZWxhdGlvblR5cGUuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uTmV3UmVsYXRpb25UeXBlLmpzOw" file="C:\Dev\Umbraco-Grid-Editors\App_Data\TEMP\ClientDependency\419775937_a29bec5db66c4b84974f889fad8cfa54.cdJ" compression="gzip" version="419775937">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery-2.0.3.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
+      <file name="/umbraco/lib/underscore/underscore.js" />
+      <file name="/umbraco/lib/jquery/jquery-ui-1.10.3.custom.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-cookies.min.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-mobile.js" />
+      <file name="/umbraco/lib/angular/1.1.5/angular-sanitize.min.js" />
+      <file name="/umbraco/lib/angular/angular-ui-sortable.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/load-image.min.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-process.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-image.js" />
+      <file name="/umbraco/lib/jquery/jquery.upload/js/jquery.fileupload-angular.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacyUmbClientMgr.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.security.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/test/custom.controller2.js" />
+      <file name="/App_Plugins/test/custom.controller3.js" />
+      <file name="/App_Plugins/test/custom.controller4.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionDeleteRelationType.js" />
+      <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
+    </files>
+  </item>
 </map>

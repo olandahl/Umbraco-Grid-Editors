@@ -21,7 +21,13 @@
 	    "name": "Test Editor 3",
 	    "alias": "Custom.Test3",
 	    "view": "testeditor3",
-	    "icon": "icon-school"
+	    "icon": "icon-thumb-up"
+	},
+	{
+	    "name": "Test Editor 4",
+	    "alias": "Custom.Test4",
+	    "view": "../App_Plugins/test/testeditor4.html",
+	    "icon": "icon-factory"
 	},
 	{
 	    "name": "Media",
