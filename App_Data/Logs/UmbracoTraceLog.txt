@@ -1627,3 +1627,4 @@
 2014-09-16 11:09:44,386 [14] INFO  Umbraco.Core.PluginManager - [Thread 23] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 9ms)
 2014-09-16 11:10:49,574 [14] INFO  Umbraco.Core.PluginManager - [Thread 12] Starting resolution types of umbraco.interfaces.ICacheRefresher
 2014-09-16 11:10:49,575 [14] INFO  Umbraco.Core.PluginManager - [Thread 12] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 0ms)
+2014-09-16 11:12:23,140 [14] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'Getting Started' with Id '1069' has been published.
