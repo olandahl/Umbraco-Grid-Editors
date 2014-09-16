@@ -12,6 +12,18 @@
 	    "icon": "icon-school"
 	},
 	{
+	    "name": "Test Editor 2",
+	    "alias": "Custom.Test2",
+	    "view": "testeditor2",
+	    "icon": "icon-refresh"
+	},
+	{
+	    "name": "Test Editor 3",
+	    "alias": "Custom.Test3",
+	    "view": "testeditor3",
+	    "icon": "icon-school"
+	},
+	{
 	    "name": "Media",
 	    "alias": "media",
 	    "view": "media",
