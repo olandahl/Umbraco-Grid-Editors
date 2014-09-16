@@ -1,0 +1,14 @@
+{
+    propertyEditors: [
+        {
+            alias: "Custom.Test3",
+            name: "Test Editor 3",
+            editor: {
+                view: "~/Umbraco/Views/propertyeditors/grid/editors/testeditor3.html"
+            }
+        }
+    ],
+    javascript: [
+        "~/App_Plugins/test2/custom.controller3.js"
+    ]
+}
