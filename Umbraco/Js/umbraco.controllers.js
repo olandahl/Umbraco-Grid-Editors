@@ -4590,7 +4590,7 @@ angular.module("umbraco")
     	}, 200);
 });
 angular.module("umbraco")
-    .controller("Umbraco.PropertyEditors.Grid.TextStringController",
+    .controller("Umbraco.PropertyEditors.Grid.TextStringControllerr",
     function ($scope, $rootScope, $timeout, dialogService) {
         
         $scope.adjustSize = function(ev){
@@ -4605,6 +4605,11 @@ angular.module("umbraco")
             }, 200);
         }
 
+    });
+angular.module("umbraco")
+    .controller("Custom.PropertyEditors.Grid.TestController",
+    function () {
+        console.log("Custom.PropertyEditors.Grid.TestController");
     });
 angular.module("umbraco")
     .controller("Umbraco.PropertyEditors.GridController",

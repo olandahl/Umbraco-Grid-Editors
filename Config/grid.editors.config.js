@@ -6,6 +6,12 @@
 	    "icon": "icon-article"
 	},
 	{
+	    "name": "Test Editor",
+	    "alias": "Custom.Test",
+	    "view": "testeditor",
+	    "icon": "icon-school"
+	},
+	{
 	    "name": "Media",
 	    "alias": "media",
 	    "view": "media",
