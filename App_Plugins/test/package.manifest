@@ -1,7 +1,0 @@
-{
-    javascript: [
-        "~/App_Plugins/test/custom.controller2.js",
-        "~/App_Plugins/test/custom.controller3.js",
-        "~/App_Plugins/test/custom.controller4.js"
-    ]
-}
